@@ -5,12 +5,13 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What tags are necessary for a complete HTML Skeleton?
-
+  The tags that are necessary are <!DOCTYPE>, <html>, <head>, <title>, and <body>.
 - What type of content belongs within the `<head>` of an HTML document?
-
+  Content that belongs in the <head> is metadata - information about the html document.
 - What type of content belongs within the `<body>` of an HTML document?
-
+  Content that is visible such as images, hyperlinks, lists.
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
+  First line of the document.
 
 ## Notes
 
